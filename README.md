@@ -1,4 +1,4 @@
-# Clash 免费配置节点配置
+# Clash 免费节点配置文件
 
 **注意：不保证百分之百可用**
 
@@ -15,6 +15,18 @@
 | 德国 | 1 |
 | 荷兰 | 1 |
 | 英国 | 1 |
+***
+### 导入Clash For Windows
+
+Clash 下载节点链接: `https://raw.githubusercontent.com/ender-zhao/Clash_Configuration/main/Node-configuration`
+
+## 下载Clash
+
+**[Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)**
+
+**[Clash For Windows Chinese](https://github.com/ender-zhao/Clash-for-Windows_Chinese)**
+
+**[Clash For Android](https://play.google.com/store/apps/details?id=com.github.kr328.clash&hl=zh-CN)**
 
 ***
-**节点仅供学习，请在24小时内删除**
+**节点仅用于学习，请在24小时内删除**
